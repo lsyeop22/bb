@@ -1,0 +1,33 @@
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185725969.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185725969_01.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185725969_12.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185725969_13.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185725969_24.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185725969_25.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185732922_06.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185732922_07.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185755725.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185755725_01.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185755725_12.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185755725_13.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185755725_24.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185755725_25.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185812179_06.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185812179_07.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185812179_18.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185812179_19.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185832159.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185832159_01.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185832159_12.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\KakaoTalk_20230919_185832159_13.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_19_16_Pro.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_19_26_Pro.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_19_27_Pro.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_19_37_Pro.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_19_39_Pro.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_20_03_Pro.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_20_04_Pro (2).jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_20_09_Pro.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_20_10_Pro (2).jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_20_36_Pro.jpg
+C:\Users\USER\Desktop\2023DSC\L515\yolov5\helmet\valid\images\WIN_20230919_19_20_37_Pro.jpg

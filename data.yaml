@@ -1,0 +1,6 @@
+names:
+- Helmet
+- Non-Helmet
+nc: 2
+train: C:\\Users\\USER\\Desktop\\2023DSC\\L515\\yolov5\\helmet\\train.txt
+val: C:\\Users\\USER\\Desktop\\2023DSC\\L515\\yolov5\\helmet\\valid.txt
